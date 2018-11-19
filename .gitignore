@@ -1,3 +1,14 @@
+*.csv#
+#*.csv
+*.docx
+*.docx#
+*.ipynb_checkpoints
+*demo
+*.png
+*.tex
+Linear Regression Test.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
